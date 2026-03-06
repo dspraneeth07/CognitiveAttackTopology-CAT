@@ -1,0 +1,9 @@
+{
+    "rows": 100000,
+    "checksum": "816c5dd06b1e20d247643511a5ec2cdf773f847411731d4336ebc8f8105e4634",
+    "invalid_country_codes": 0,
+    "uuid_valid_ratio": 1.0,
+    "cms_error": 0.0,
+    "CDE_demo": 8.711868286132812,
+    "TDI_demo": 8.627216339111328
+}

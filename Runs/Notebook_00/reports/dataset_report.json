@@ -1,0 +1,10 @@
+{
+    "rows": 100000,
+    "cms_error": 0.0,
+    "invalid_country_codes": 0,
+    "invalid_uuid": 0,
+    "entropy_sample": 4.792444260517933,
+    "dataset_checksum": "816c5dd06b1e20d247643511a5ec2cdf773f847411731d4336ebc8f8105e4634",
+    "dataset_load_time": 0.2664182186126709,
+    "run_id": "20260306_124720"
+}
