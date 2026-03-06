@@ -243,7 +243,8 @@ You can use GCT‑100K for tasks such as:
 ## License
 
 **Dataset License**:  
-This dataset is released under an `Apache 2.0`
+This dataset is released under an `Apache 2.0` 
+
 ---
 
 ## Citation
